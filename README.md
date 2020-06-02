@@ -1,5 +1,5 @@
 # Algorithm_04
-## Test
+## Model_01
 ### 1. Model
 ![model1](https://user-images.githubusercontent.com/65847457/83493054-2c901300-a4ef-11ea-9e3e-db49b879439c.PNG)
 ### 2. Training with Training loss
@@ -11,7 +11,7 @@
 ### 5. Images and corresponding probability that predicted Wrong
 ![캡처](https://user-images.githubusercontent.com/65847457/83493066-3154c700-a4ef-11ea-8040-796222250ccc.PNG)
 
-## Test2
+## Model_02
 ### 1. model
 ![model2](https://user-images.githubusercontent.com/65847457/83493449-c35ccf80-a4ef-11ea-89f9-7d75aeca6482.PNG)
 ### 2. Training with Training loss
@@ -23,7 +23,7 @@
 ### 5. Images and corresponding probability that predicted Wrong
 ![2](https://user-images.githubusercontent.com/65847457/83493446-c2c43900-a4ef-11ea-982d-e4a5ee209850.PNG)
 
-## Test3
+## Model_03
 ### 1. model
 ![model3](https://user-images.githubusercontent.com/65847457/83493546-e12a3480-a4ef-11ea-85ad-5bb7e2fe5046.PNG)
 ### 2. Training with Training loss
